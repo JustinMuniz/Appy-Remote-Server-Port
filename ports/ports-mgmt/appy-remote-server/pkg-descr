@@ -1,0 +1,4 @@
+Appy is a BSD licensed graphical package management system of applications.
+This port is for setting up remote nodes, and does not come with a GUI.
+
+WWW: https://wiki.freebsd.org/SummerOfCode2013/pkgQtGtk
