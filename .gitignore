@@ -1,0 +1,11 @@
+# This repository is for the Ports Collection
+
+# Editors' temporary files
+*~
+*.swp
+*.swo
+*.kate-swp
+*.new
+
+# Working directory and it's contents
+ports/ports-mgmt/appy-remote-server/work/
